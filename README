@@ -1,0 +1,11 @@
+# betfair api
+
+see godoc
+
+**not fully implemented yet**
+
+i tried [aded/betfair](https://github.com/aded/betfair) implementation but 
+there are some errors such as i dont want to waste my time, 
+then i decided rewrite. even so thanks aded :)
+
+sorry for tests :)
